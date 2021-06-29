@@ -1,6 +1,6 @@
-# Project Module 8
+# Project Module 9
 
-- This repo is used to store a specific category throughout my learning experience in Unity within a particular branch beginning with Assignment 8.1.
+- This repo is used to store a specific category throughout my learning experience in Unity within a particular branch beginning with Assignment 9.1.
 
 - Please navigate to any module that pertains to your interest.
 
